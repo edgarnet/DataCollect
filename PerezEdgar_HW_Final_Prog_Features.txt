@@ -1,0 +1,41 @@
+Welcome to DataCollect 2.01!
+
+==FEATURES==
+1.Functional Decomposition
+2.Looping with Repetition Control Structures
+3.Branching with Selection Control Structures
+4.File I/O
+5.Using Multiple Classes
+6.Variable Tracing and Testing
+
+==TUTORIAL==
+To get started we will need a dataset to work with.
+The sample dataset "collect.txt" is already provided,
+in which you can simply >>enter:
+
+>Please enter the filename of your dataset:
+>>collect.txt
+
+The data from your set should ONLY include real numbers.
+
+The Mean, Median, Range, Variance, Standard Deviation, and
+coefficient of variation of your dataset is then presented to the screen.
+
+The option to calculate the Z-Score of a number is presented,
+which will provide how many Standard Deviations away from the Mean 
+your input is, as well as the ability to enter another number
+or continue through the program.
+
+To save the data report, simply >>enter a filename of your choosing:
+
+>Enter the filename you would like to save this collection in:
+>>myCollection.txt
+
+A 'collection' stores the descriptive statistics of your dataset along with
+the dataset preceded by their respective index. Collections are
+not intended to be used as datasets, they are simply a means of saving the
+analysis conducted by DataCollect.
+
+Lastly, you are given the option to analyze another dataset or end the program.
+
+Thank you for reading the DataCollect Version 2.01 manual!
